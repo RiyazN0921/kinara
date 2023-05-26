@@ -1,0 +1,38 @@
+{
+    "students":[{
+        "id":1,
+        "name": "John",
+        "totalmarks":100,
+        "page":1,
+        "pagesize":10
+    },
+    {
+        "id":2,
+        "name": "Ameer",
+        "totalmarks":99,
+        "page":2,
+        "pagesize":20
+    },
+    {
+        "id":1,
+        "name": "Gilley",
+        "totalmarks":70,
+        "page":3,
+        "pagesize":30
+    },
+    {
+        "id":1,
+        "name": "Riyaz",
+        "totalmarks":90,
+        "page":4,
+        "pagesize":40
+    },
+    {
+        "id":1,
+        "name": "Salman",
+        "totalmarks":80,
+        "page":5,
+        "pagesize":50
+    }
+]
+}
